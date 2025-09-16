@@ -8,7 +8,7 @@ def create_connection():
     return mysql.connector.connect(
         host='localhost',
         user='root',  # Replace with your MySQL username
-        password='root',  # Replace with your MySQL password
+        password='Sathiyaaseenu@11',  # Replace with your MySQL password
         database='zomato'  # Database name
     )
 
